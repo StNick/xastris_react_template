@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/StNick/xastris_react_template#readme",
   "devDependencies": {
+    "babel-preset-react": "^6.16.0",
     "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
     "gulp-live-server": "0.0.30"
   }
 }
